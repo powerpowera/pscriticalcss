@@ -24,7 +24,7 @@ If you want to get a zip ready to install on your shop. You can directly downloa
 ### Production
 
 1. Clone this repo `git clone git@github.com:PickleBoxer/pscriticalcss.git`
-2. `make build-prod-zip`
+2. `make build-zip-prod`
 
 The zip will be generated in the root directory of the module.
 
